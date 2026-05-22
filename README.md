@@ -16,7 +16,7 @@ asasasdasdas
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:asas
 
 ```jsasa
-export default defineConfig([
+export default defineConfig([asdadad
   globalIgnores(['dist']),
   {
     files: ['**/*.{ts,tsx}'],
