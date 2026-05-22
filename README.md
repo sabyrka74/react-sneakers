@@ -14,7 +14,7 @@ asasasdasdas
 ## Expanding the ESLint configurationasdasdasdasdasasasSDSFSF
 asaasdadsasaa
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:asas
-
+UYUYUYIU
 ```jsasa
 export default defineConfig([asdadad
   globalIgnores(['dist']),
