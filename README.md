@@ -6,7 +6,7 @@ asdasdASAsASDSADSApact on dev & build performances. To add it, see [this documen
 asasasdasdasYUYUYYUываыва
 
 
-## Expanding the ESLint configurationasdasdasdasdasasasSDSFSF
+## Expanding the ESLint configurationasdasdasdasdasasasSDSFSFsdfdsf
 asaasdadsasaaadda
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:asas
 UYUYUYIU
