@@ -6,7 +6,7 @@ ASDASD://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) us
 
 ## React Compiler
 asdasdASAsASDSADSApact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-asasasdasdasYUYUYYU
+asasasdasdasYUYUYYUываыва
 ## Expanding the ESLint configurationasdasdasdasdasasasSDSFSF
 asaasdadsasaa
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:asas
