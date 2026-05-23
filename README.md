@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-ASDASD://github.com/vitejs/vite-plugin-react/blasasaob/mai
+ASDASD://github.com/vitejs/vite-plugin-react/blasasaob/maisdsd
 asdasdASAsASDSADSApact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 asasasdasdasYUYUYYUываываdvcvxcvasasd
 adsaddasdasdasdsaasaassa
