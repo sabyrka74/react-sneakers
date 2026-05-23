@@ -5,7 +5,7 @@ ASDASD://github.com/vitejs/vite-plugin-react/blasasaob/mai
 asdasdASAsASDSADSApact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 asasasdasdasYUYUYYUываываdvcvxcvasasd
 adsaddasdasdasdsa
-
+asasa
 ## Expanding the ESLint configurationasdasdasdasdasasasSasasDSFSasasFsdfdsfasasasdasd
 asaasdadsasaaaddakkl;kl;
 If you are developing a production application, we recommenasasad updating the configuration to enable type-aware lint rules:asas
