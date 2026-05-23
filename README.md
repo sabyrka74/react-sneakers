@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ASDASD://github.com/vitejs/vite-plugin-react/blasasaob/mai
 asdasdASAsASDSADSApact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 asasasdasdasYUYUYYUываываdvcvxcvasasd
-adsaddasdasdasdsa
+adsaddasdasdasdsaasaassa
 asasa
 ## Expanding the ESLint configurationasdasdasdasdasasasSasasDSFSasasFsdfdsfasasasdasd
 asaasdadsasaaaddakkl;kl;
