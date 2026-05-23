@@ -9,7 +9,7 @@ adsaddasdasd
 ## Expanding the ESLint configurationasdasdasdasdasasasSasasDSFSFsdfdsf
 asaasdadsasaaadda
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:asas
-UYUYUYIU
+UYUYUYIUassasaas
 ```jsasa
 export default defineConfig([asdadad
   globalIgnores(['dist']),
